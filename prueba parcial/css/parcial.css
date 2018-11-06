@@ -1,0 +1,9 @@
+html, body {
+    background-color: floralwhite       }
+p.sansserif {
+    font-family: Helvetica, Arial, sans-serif;      }
+#heading {
+    font-family: Helvetica, Arial, sans-serif;  }
+#intro {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: large;     }
